@@ -25,4 +25,5 @@ define service {
 optional create a template to see all services in one graph.
 ls /usr/share/nagios/html/pnp4nagios/templates/check_xentop.php
 
+
 Owen

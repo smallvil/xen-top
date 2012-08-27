@@ -1,10 +1,11 @@
 xen-top
 =======
 
-Want to graphvariables from XenTop ?
-this is based on http://goo.gl/fmHRe
-but using nagios / nrpe / pnp4nagios
+Want to graph some variables from XenTop in a Dom0 ?
+very useful in cloud/Virtual times...
 
+based on http://goo.gl/fmHRe
+but using nagios / nrpe / pnp4nagios
 
 @ the dom0
 add a new line in /etc/nagios/nrpe.cfg of create the file in your config folder
